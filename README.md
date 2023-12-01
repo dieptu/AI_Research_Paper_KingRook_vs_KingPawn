@@ -43,3 +43,7 @@ the order in which their values appear in the feature-value list:
  skrxp,spcop,stlmt,thrsk,wkcti,wkna8,wknck,wkovl,wkpos,wtoeg]
 
 In the file, there is one instance (board position) per line.
+
+
+## Youtube link for the presentation: 
+https://youtu.be/q3WSKFL-x_o
